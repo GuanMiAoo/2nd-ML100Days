@@ -1,3 +1,5 @@
 
 Day4/data/application_train.csv
 *.csv
+Day17-20/data/house_test.csv.gz
+Day17-20/data/house_train.csv.gz
